@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 1337x = "*"
+seedrcc = "*"
+yt-dlp = "*"
 
 [dev-packages]
 
